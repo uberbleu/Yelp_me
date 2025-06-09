@@ -7,6 +7,9 @@ In this project, we delve into the factors that distinguish successful restauran
 By examining key metrics and trends in customer feedback, we aim to uncover the elements that contribute to a restaurant's success, providing insights into what makes some establishments stand out and attract enthusiastic patrons while others fall short.
 Full notebook: https://drive.google.com/file/d/1DAAPE5gLocOsfxrxYbSSJtLvWfqmSncf/view?usp=sharing
 
+Project link with graphs, code, and more summaries:
+https://huszartony.super.site/4ce9320b2a664200b787c12f1b7c4fbc
+
 ## 1. Problem Definition
 In a statement, can we identify at least two key variables that contribute to a restaurant's success by analyzing Yelp reviews?
 
